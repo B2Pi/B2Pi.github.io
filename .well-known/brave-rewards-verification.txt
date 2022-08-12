@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: b2pi.github.io
+Token: 5391d7a69dfc666383fd3fa51f60d817ccf1ae9a4cd358db9336d48ee97dd88f
